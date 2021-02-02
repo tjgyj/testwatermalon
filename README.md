@@ -1,22 +1,5 @@
-## 合成大西瓜
+# 合成大欧派（P家） #
 
-未修改版源码，可直接在浏览器运行
-
-在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
-
-
-### 本地启动
-
-1. 安装 serve 工具：
-
-    ```bash
-    npm run serve
-    ```
-
-2. 进入 daxigua 目录，运行 serve：
-
-    ```bash
-    serve
-    ```
-   
-3. 打开浏览器访问 localhost:5000 即可！
+合成大西瓜的P家版本。
+合成顺序为：暗妃鲁咪蕾->古守血游->真白花音->铃宫铃->椎名菜羽->有栖Mana->乙女音->绯赤艾莉欧->花园Serena->梦乃栞->紫桃爱音。
+如对合成顺序有异议，请提交申请与我们一同迫害。
